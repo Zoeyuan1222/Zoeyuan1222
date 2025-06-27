@@ -6,11 +6,8 @@
 
 
   <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+  <!-- just img 图片 -->
+  <img src="https://cdn.jsdelivr.net/gh/Zoeyuan1222/Zoeyuan1222/assets/images/coding.png" width="250" height="250" />
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
@@ -38,10 +35,6 @@
 
 </td></tr>
 
-<tr><td>
-
-### 📃 Recent Blog
-
 
 </td></tr>
 
@@ -49,12 +42,12 @@
 
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Zoeyuan1222/Zoeyuan1222/assets/images/hr.gif" />
 
 <div align="center">
 
 <!-- run 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/Zoeyuan1222/Zoeyuan1222/assets/images/run.png" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div>
@@ -81,12 +74,12 @@
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Zoeyuan1222/Zoeyuan1222/assets/images/hr.gif" />
 
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/Zoeyuan1222/Zoeyuan1222/assets/images/cartwheel.png" width="250" height="250" />
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
@@ -103,7 +96,7 @@
 <div align="center" >
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/Zoeyuan1222/Zoeyuan1222/assets/images/climbing.png" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 
