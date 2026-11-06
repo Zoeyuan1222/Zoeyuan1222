@@ -27,7 +27,7 @@
 
 <img align="right" width="88" src="https://picx.zhimg.com/v2-7fc7afff5da1245a076544fa35eb12f3_xll.jpg" />
 
-- [情感机器（北京）科技有限公司]([关于我们 | SwanLab官方文档](https://docs.swanlab.cn/guide_cloud/community/emotion-machine.html)) &emsp; 📌 2025-03-01 —— 2024-07-31
+- [情感机器（北京）科技有限公司]([关于我们 | SwanLab官方文档](https://docs.swanlab.cn/guide_cloud/community/emotion-machine.html)) &emsp; 📌 2025-03-01 —— 2025-08-31
 <tr><td>
 
  - 工作岗位：web前端开发工程师
